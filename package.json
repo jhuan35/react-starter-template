@@ -1,8 +1,8 @@
 {
-  "name": "mld",
+  "name": "smart-mart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mld.ng/",
+  "homepage": "https://jhuan35.github.io/react-starter-template",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -10,6 +10,7 @@
     "aos": "^3.0.0-beta.6",
     "axios": "^0.24.0",
     "emailjs-com": "^3.2.0",
+    "gh-pages": "^5.0.0",
     "notiflix": "^3.2.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -20,6 +21,8 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

@@ -35,7 +35,7 @@ function App() {
 
   return (
     <>
-      <Router>
+      
         <ScrollToTop>
           <Routes>
             <Route path="/" element={<Home />} />
@@ -44,7 +44,7 @@ function App() {
             <Route path="/our-mission" element={<OurMission />} />
           </Routes>
         </ScrollToTop>
-      </Router>
+      
     </>
   );
 }
