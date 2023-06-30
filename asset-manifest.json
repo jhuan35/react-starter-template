@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-starter-template/static/css/main.d9a3d01f.css",
+    "main.js": "/react-starter-template/static/js/main.e8c101c2.js",
+    "static/media/combined_1_trimmed.png": "/react-starter-template/static/media/combined_1_trimmed.9a9bfc42e679ac541e25.png",
+    "static/media/yale_wellness_vengo_enlarged.jpg": "/react-starter-template/static/media/yale_wellness_vengo_enlarged.686db7cdaf1970369137.jpg",
+    "static/media/jimmy_cropped_1.jpg": "/react-starter-template/static/media/jimmy_cropped_1.25ceecdd132dc9f5fe15.jpg",
+    "static/media/consultation.svg": "/react-starter-template/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/jebin_boat_cruise_cropped.jpg": "/react-starter-template/static/media/jebin_boat_cruise_cropped.1dd4e7720486ac19115a.jpg",
+    "static/media/web-dev.svg": "/react-starter-template/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
+    "static/media/miami_u_vengo.webp": "/react-starter-template/static/media/miami_u_vengo.db61630c862b8f00905c.webp",
+    "static/media/hosting.svg": "/react-starter-template/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/app.svg": "/react-starter-template/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/kws.png": "/react-starter-template/static/media/kws.877da8110793af2c3d27.png",
+    "static/media/web.svg": "/react-starter-template/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "static/media/footer_version_3.svg": "/react-starter-template/static/media/footer_version_3.a23d36d94ea6de03a460.svg",
+    "index.html": "/react-starter-template/index.html",
+    "static/media/hero-bg.svg": "/react-starter-template/static/media/hero-bg.2237f2b6be81c21a80a6.svg",
+    "main.d9a3d01f.css.map": "/react-starter-template/static/css/main.d9a3d01f.css.map",
+    "main.e8c101c2.js.map": "/react-starter-template/static/js/main.e8c101c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9a3d01f.css",
+    "static/js/main.e8c101c2.js"
+  ]
+}
